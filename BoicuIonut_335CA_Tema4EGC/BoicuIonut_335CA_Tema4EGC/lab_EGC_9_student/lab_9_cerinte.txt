@@ -1,0 +1,13 @@
+1. Sa completeze shaderul astfel incat sa foloseasca prima textura pentru a afisa textura pe obiecte
+
+2. Sa faca binding corespunzator pentru fiecare textura din C++
+	- trebuie sa se vada textura de pe glob si cea de pe bambus
+
+3. Sa completeze shaderul si sa foloseasca textura2 pentru a face alpha discard
+(zonele negre de pe textura 2 reprezinta zonele ce trebuie sa nu fie considerate in fragment shader)
+
+4. Sa creeze textura random pentru cub - are coordonate de textura dar nu are textura
+
+Bonusuri posibile:
+	- sa se schimbe metodele de filtrare pentru a se observa diferentele
+	- sau intrebati asistentul :D
